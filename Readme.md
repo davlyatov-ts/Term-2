@@ -68,5 +68,5 @@ ________________________________________________________________________________
 -	tty
 -	dev/pts/3
 -	echo Hi friends from pts3 to tty3 >/dev/tty3
--		
+-	(https://github.com/davlyatov-ts/Term-2/blob/master/1.png)		
 ➜  ~ 	
